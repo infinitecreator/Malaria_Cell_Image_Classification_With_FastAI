@@ -18,3 +18,8 @@ my new original sized images dataset which did the trick without overfitting
 # About the dataset
 The dataset was obtained from kaggle dataset 
 Website: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+# Reference and Model
+Anybody interested in playing with my model can use the above .pkl file.
+My whole procedure with detailed instruction is given in my above uploaded notebook
+checkout if interested.
